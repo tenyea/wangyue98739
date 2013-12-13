@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 asdfghaAF AÔÚ123zzà»à»°¡
+=======
+asdfaszzz gh123zzzzzzz
+>>>>>>> origin/ttt
